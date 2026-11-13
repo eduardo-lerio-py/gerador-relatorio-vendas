@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,valor
+01/11/2026,Camiseta,Roupas,2,49.90
+01/11/2026,Caneca,Casa,1,29.90
+02/11/2026,Tênis,Calçados,1,199.90
+02/11/2026,Camiseta,Roupas,3,49.90
+03/11/2026,Garrafa,Casa,2,39.90
+03/11/2026,Boné,Roupas,1,34.90
+04/11/2026,Tênis,Calçados,2,199.90
+04/11/2026,Caneca,Casa,4,29.90
+05/11/2026,Meia,Roupas,6,12.90
+05/11/2026,Garrafa,Casa,1,39.90
